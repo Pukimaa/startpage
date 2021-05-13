@@ -1,3 +1,3 @@
-# koyu.space Startpage
+# Pukima Startpage
 
-Startpage for koyu.space available at [start.koyu.space](https://start.koyu.space)
+Startpage for and from Pukima available at [start.pukima.site](https://start.pukima.site)

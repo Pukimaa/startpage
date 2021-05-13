@@ -16,9 +16,6 @@ input {
     font-size: 18pt;
     border-radius: 4px;
     width: 40%;
-}
-
-* {
     text-transform: lowercase !important;
 }
 

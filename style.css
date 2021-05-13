@@ -10,6 +10,7 @@ body {
 input {
     border: 1px solid #ccc;
     background: #fff;
+    margin-top: 2rem;
     outline: 0;
     padding: 10px;
     font-size: 18pt;
@@ -22,7 +23,6 @@ input {
 }
 
 table {
-    font-size: 8pt;
     position: relative;
     margin: 0 auto;
     margin-top: 60px;

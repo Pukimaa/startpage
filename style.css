@@ -1,5 +1,5 @@
 body {
-    background: #101320;;
+    background: #f2f2ff;
     color: #333;
     text-align: center;
     padding-top: 60px;
@@ -53,7 +53,7 @@ td {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background: #223;
+        background: #101320;
         color: #fff;
     }
     a, a:visited {

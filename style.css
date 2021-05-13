@@ -16,9 +16,13 @@ input {
     font-size: 18pt;
     border-radius: 4px;
     width: 40%;
-    text-transform: lowercase !important;
 }
 
+input,
+#header {
+text-transform: lowercase !important;
+}
+    
 table {
     position: relative;
     margin: 0 auto;
